@@ -63,12 +63,12 @@ In addition to the official tutorial notebooks, this repository includes detaile
 
 The data challenge synthesizes the concepts introduced in the tutorials and provides end-to-end analysis exercises.
 
-| Challenge | Focus Area | Key Outcome |
-|---------:|------------|-------------|
-| 1 | Time-frequency analysis | Identified a clear gravitational-wave chirp |
-| 2 | Matched filtering | Recovered a weak signal and measured SNR |
-| 3 | Multi-detector coincidence | Confirmed the event independently in H1 and L1 |
-| 4 | Event search and parameter estimation | Detected multiple events, classified glitches, and inferred source masses |
+| Challenge | Focus Area | Key Outcome | Guide |
+|---------:|------------|-------------|:---:|
+| 1 | Time-frequency analysis | Identified a clear gravitational-wave chirp | <a href="./data_challenge/challenge_1/"><img src="./assets/open-link.png" width="20" alt="Open documentation"></a> |
+| 2 | Matched filtering | Recovered a weak signal and measured SNR | <a href="./data_challenge/challenge_2/"><img src="./assets/open-link.png" width="20" alt="Open documentation"></a> |
+| 3 | Multi-detector coincidence | Confirmed the event independently in H1 and L1 | <a href="./data_challenge/challenge_3/"><img src="./assets/open-link.png" width="20" alt="Open documentation"></a> |
+| 4 | Event search and parameter estimation | Detected multiple events, classified glitches, and inferred source masses | <a href="./data_challenge/challenge_4/"><img src="./assets/open-link.png" width="20" alt="Open documentation"></a> |
 
 ### Challenge 1 — Chirp Detection
 
@@ -137,13 +137,13 @@ consistent with an equal-mass binary black hole merger.
 
 The workshop tutorials provide the theoretical and computational foundation for the challenge analyses.
 
-| Tutorial | Topic |
-|------|------|
-| 1 | Accessing Open Data |
-| 2 | Generating Waveforms |
-| 3 | Signal Processing |
-| 4 | Searches |
-| 5 | Parameter Estimation |
+| Tutorial | Topic | Guide |
+|:--------:|-------|:-----:|
+| 1 | Accessing Open Data | <a href="./tutorials/1_accessing_open_data/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a> |
+| 2 | Generating Waveforms | <a href="./tutorials/2_generating_waveforms/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a> |
+| 3 | Signal Processing | <a href="./tutorials/3_signal_processing/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a> |
+| 4 | Searches | <a href="./tutorials/4_searches/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a> |
+| 5 | Parameter Estimation | <a href="./tutorials/5_parameter_estimation/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a> |
 
 ### Example Outputs
 
@@ -167,7 +167,7 @@ The workshop tutorials provide the theoretical and computational foundation for 
 
 ---
 
-## Extension Topics
+## Extension Topics <a href="./tutorials/a_extension/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a>
 
 Optional advanced notebooks covering research-grade methods:
 
