@@ -4,8 +4,6 @@
   <strong>Infer source properties by comparing gravitational-wave data with theoretical models using Bayesian inference.</strong>
 </p>
 
----
-
 ## Overview
 
 This tutorial introduces Bayesian parameter estimation, the framework used to infer the physical properties of gravitational-wave sources.
@@ -13,8 +11,6 @@ This tutorial introduces Bayesian parameter estimation, the framework used to in
 Across three notebooks, you will build intuition using a simple toy model, perform parameter estimation for compact binary mergers with `Bilby`, and explore published posterior samples from real gravitational-wave events.
 
 The objective is to understand how posterior distributions, credible intervals, and model comparisons are used to extract astrophysical information from detector data.
-
----
 
 ## Notebooks
 
@@ -42,8 +38,6 @@ Explores publicly released posterior samples and compares inferred source proper
   </a>
 </p>
 
----
-
 ## Tutorial Objectives
 
 By completing this tutorial, you will learn how to:
@@ -53,8 +47,6 @@ By completing this tutorial, you will learn how to:
 3. Interpret corner plots and posterior predictive checks.
 4. Compare competing models using Bayes factors.
 5. Analyze published posterior samples from real events.
-
----
 
 ## Tutorial 5.1 — Introduction to Parameter Estimation
 
@@ -80,8 +72,6 @@ By completing this tutorial, you will learn how to:
 - Random posterior draws capture the range of plausible model realizations.
 - Bayes factors provide a principled method for model comparison.
 
----
-
 ## Tutorial 5.2 — Parameter Estimation for Compact Object Mergers
 
 ### Workflow Summary
@@ -102,8 +92,6 @@ The analysis yields posterior distributions for source parameters such as compon
 - Distance and inclination exhibit strong correlations.
 - Credible intervals quantify the uncertainty in inferred source properties.
 
----
-
 ## Tutorial 5.3 — Using Published Posterior Samples
 
 ### Workflow Summary
@@ -123,8 +111,6 @@ Published posterior samples enable rapid exploration of source populations witho
 - Derived quantities such as total mass and mass ratio can be computed from samples.
 - Population-level trends become accessible through catalog analysis.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -135,8 +121,6 @@ Published posterior samples enable rapid exploration of source populations witho
 - corner
 - PESummary
 
----
-
 ## Learning Outcomes
 
 After completing this tutorial, you will be able to:
@@ -146,8 +130,6 @@ After completing this tutorial, you will be able to:
 - Interpret posterior distributions and credible intervals.
 - Compare models using Bayes factors.
 - Work with published posterior samples from real gravitational-wave events.
-
----
 
 ## References
 

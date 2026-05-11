@@ -4,8 +4,6 @@
   <strong>Transform raw detector strain into analysis-ready data using Fourier methods, noise characterization, and time-frequency visualizations.</strong>
 </p>
 
----
-
 ## Overview
 
 This tutorial introduces the core signal-processing techniques used in gravitational-wave data analysis.
@@ -13,8 +11,6 @@ This tutorial introduces the core signal-processing techniques used in gravitati
 Across three notebooks, you will explore Fourier transforms, estimate the detector noise Power Spectral Density (PSD), whiten and bandpass the data, and generate spectrograms and Q-transforms to reveal gravitational-wave signals in noisy strain measurements.
 
 The objective is to understand how detector noise is characterized and suppressed so that astrophysical signals become clearly visible.
-
----
 
 ## Notebooks
 
@@ -42,8 +38,6 @@ Demonstrates spectrogram and Q-transform visualizations for identifying gravitat
   </a>
 </p>
 
----
-
 ## Tutorial Objectives
 
 By completing this tutorial, you will learn how to:
@@ -53,8 +47,6 @@ By completing this tutorial, you will learn how to:
 3. Whiten and bandpass strain data.
 4. Verify the statistical properties of whitened noise.
 5. Generate spectrograms and Q-transforms.
-
----
 
 ## Tutorial 3.1 — Fourier Transforms
 
@@ -68,8 +60,6 @@ By completing this tutorial, you will learn how to:
 ### Results
 
 This notebook demonstrates how periodic signals are decomposed into their constituent frequencies and establishes the mathematical foundation for PSD estimation and matched filtering.
-
----
 
 ## Tutorial 3.2 — PSD Estimation, Whitening, and Bandpass Filtering
 
@@ -101,8 +91,6 @@ This notebook demonstrates how periodic signals are decomposed into their consti
 - Whitening flattens the noise spectrum.
 - The real and imaginary components of the whitened data are approximately Gaussian with standard deviation close to unity.
 
----
-
 ## Tutorial 3.3 — Spectrograms and Q-Transforms
 
 ### Workflow Summary
@@ -126,8 +114,6 @@ This notebook demonstrates how periodic signals are decomposed into their consti
 - Q-transforms provide better resolution for compact transient signals than standard spectrograms.
 - Time-frequency representations are powerful tools for distinguishing astrophysical events from glitches.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -136,8 +122,6 @@ This notebook demonstrates how periodic signals are decomposed into their consti
 - SciPy
 - GWpy
 - PyCBC
-
----
 
 ## Learning Outcomes
 
@@ -148,8 +132,6 @@ After completing this tutorial, you will be able to:
 - Whiten and bandpass gravitational-wave strain data.
 - Verify Gaussian noise assumptions.
 - Generate spectrograms and Q-transforms to identify transient signals.
-
----
 
 ## References
 

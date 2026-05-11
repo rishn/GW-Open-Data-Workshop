@@ -6,8 +6,6 @@
   <strong>Identify a compact binary coalescence signal using time-domain analysis and Q-transform visualizations.</strong>
 </p>
 
----
-
 ## Overview
 
 This challenge introduces the fundamental workflow used to detect gravitational-wave signals in open detector data.
@@ -23,8 +21,6 @@ Using the `H1:CHALLENGE1` strain channel, the notebook walks through the process
 
 The goal is to recognize the characteristic chirp signature produced by two inspiraling black holes.
 
----
-
 ## Notebook
 
 ### `./GW_ODW_Data_Challenge_1.ipynb`
@@ -35,8 +31,6 @@ The goal is to recognize the characteristic chirp signature produced by two insp
   </a>
 </p>
 
----
-
 ## Challenge Objective
 
 Analyze the provided strain data and determine:
@@ -46,8 +40,6 @@ Analyze the provided strain data and determine:
 3. The visual evidence supporting the detection.
 
 The signal is embedded in realistic detector noise and must be identified through a combination of time-domain and time-frequency analysis.
-
----
 
 ## Analysis Workflow
 
@@ -71,8 +63,6 @@ A Q-transform spectrogram is computed to visualize the signal in the time-freque
 
 The peak amplitude and brightest portion of the Q-transform are used to estimate the coalescence time.
 
----
-
 ## Results
 
 A clear binary black hole chirp is detected in the strain data.
@@ -94,8 +84,6 @@ The merger occurs at approximately:
 - Distinct upward-sweeping chirp in the Q-transform.
 - Strong, short-duration transient inconsistent with stationary noise.
 
----
-
 ## Challenge Output
 
 The notebook produces:
@@ -106,8 +94,6 @@ The notebook produces:
 - Estimated merger time.
 
 These outputs provide strong visual confirmation of the gravitational-wave signal.
-
----
 
 ## Scientific Interpretation
 
@@ -121,8 +107,6 @@ The detected chirp is consistent with a compact binary coalescence:
 
 This event morphology is the defining signature of a binary black hole merger.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -130,8 +114,6 @@ This event morphology is the defining signature of a binary black hole merger.
 - Matplotlib
 - GWpy
 - LIGO Open Data
-
----
 
 ## Files
 
@@ -142,7 +124,6 @@ data_challenge/
     ├── challenge_1.md
     └── merger.png
 ```
----
 
 ### Learning Outcomes
 
@@ -152,8 +133,6 @@ After completing this challenge, you will be able to:
 - Identify transient chirp signals.
 - Use Q-transforms for time-frequency analysis.
 - Estimate merger times directly from detector data.
-
----
 
 ### References
 - https://gwosc.org/

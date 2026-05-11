@@ -4,8 +4,6 @@
   <strong>Search for multiple events, classify detector glitches, and infer source properties.</strong>
 </p>
 
----
-
 ## Overview
 
 Challenge 4 brings together the core techniques developed throughout the workshop  into a complete gravitational-wave analysis workflow over data containing multiple astrophysical signals and instrumental glitches.
@@ -19,8 +17,6 @@ Using data from the Hanford (H1) and Livingston (L1) detectors, this notebook de
 - Perform Bayesian parameter estimation on confirmed events.
 
 This challenge closely mirrors the real-world workflow used in gravitational-wave searches.
-
----
 
 ## Notebooks
 
@@ -93,8 +89,6 @@ Analyze a multi-hour dataset and:
 3. Confirm coincident events in both detectors.
 4. Estimate source properties for a selected event.
 
----
-
 ## Analysis Workflow
 
 ### 1. Load the Challenge Data
@@ -116,8 +110,6 @@ Matched filtering is used to estimate merger times and approximate binary masses
 ### 5. Perform Bayesian Parameter Estimation
 
 A Bilby-based parameter estimation analysis is run on a confirmed event to infer posterior distributions for source parameters.
-
----
 
 ## Results
 
@@ -211,8 +203,6 @@ $$
 
 This result is consistent with a binary black hole system containing nearly equal-mass components of approximately $29\,M_\odot$ each.
 
----
-
 ## Challenge Output
 
 The notebook produces:
@@ -222,8 +212,6 @@ The notebook produces:
 - Matched-filter SNR results.
 - Event versus glitch classifications.
 - Posterior distributions from parameter estimation.
-
----
 
 ## Scientific Interpretation
 
@@ -236,8 +224,6 @@ A genuine gravitational-wave event should exhibit:
 
 Instrumental glitches often produce transient excess power but lack one or more of these characteristics.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -248,8 +234,6 @@ Instrumental glitches often produce transient excess power but lack one or more 
 - Bilby
 - LIGO Open Data
 
----
-
 ## Files
 
 ```text
@@ -257,21 +241,20 @@ data_challenge/
 └── challenge_4/
     ├── GW_ODW_Data_Challenge_4.ipynb
     ├── challenge_4.md
-    |── event_826.png
-    |── event_1101.png
-    |── event_1638.png
-    |── event_2484.png
-    |── event_2893.png
-    |── event_3219.png
-    |── glitch_988_koi_fish.png
-    |── glitch_1402_blip.png
-    |── glitch_1427_tomte.png
-    |── glitch_1782_fast_scattering.png
-    |── glitch_2952_whistle.png
-    |── glitch_3365_low_freq_blip.png
+    ├── event_826.png
+    ├── event_1101.png
+    ├── event_1638.png
+    ├── event_2484.png
+    ├── event_2893.png
+    ├── event_3219.png
+    ├── glitch_988_koi_fish.png
+    ├── glitch_1402_blip.png
+    ├── glitch_1427_tomte.png
+    ├── glitch_1782_fast_scattering.png
+    ├── glitch_2952_whistle.png
+    ├── glitch_3365_low_freq_blip.png
     └── glitch_4054_paired_doves.png
 ```
----
 
 ### Learning Outcomes
 
@@ -282,8 +265,6 @@ After completing this challenge, you will be able to:
 - Validate coincident detections.
 - Apply matched filtering and parameter estimation.
 - Interpret posterior distributions for source properties.
-
----
 
 ### References
 - https://gwosc.org/

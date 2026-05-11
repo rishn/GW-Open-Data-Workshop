@@ -4,8 +4,6 @@
   <strong>Recover a weak gravitational-wave signal using matched filtering.</strong>
 </p>
 
----
-
 ## Overview
 
 Challenge 2 introduces matched filtering, the core technique used to detect modeled gravitational-wave signals buried in detector noise.
@@ -21,8 +19,6 @@ Using the `H1:CHALLENGE2` strain channel, this notebook demonstrates how to:
 
 This challenge highlights how prior knowledge of the expected waveform can be used to detect signals that may not be obvious in the raw strain data.
 
----
-
 ## Notebook
 
 ### `./GW_ODW_Data_Challenge_2.ipynb`
@@ -31,8 +27,6 @@ This challenge highlights how prior knowledge of the expected waveform can be us
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 2 in Colab">
   </a>
 </p>
-
----
 
 ## Challenge Objective
 
@@ -43,8 +37,6 @@ The challenge aims to determine:
 1. The approximate merger time.
 2. The peak matched-filter SNR.
 3. The significance of the detection.
-
----
 
 ## Analysis Workflow
 
@@ -75,8 +67,6 @@ The template is correlated with the detector strain to produce an SNR time serie
 
 The time and value of the maximum SNR are used to estimate the event significance and merger time.
 
----
-
 ## Results
 
 The matched-filter analysis identifies a strong binary black hole signal.
@@ -101,8 +91,6 @@ An SNR above 20 indicates a highly significant detection, with excellent agreeme
   <img src="./snr_time_series.png" alt="Matched Filter SNR Time Series" width="900">
 </p>
 
----
-
 ## Challenge Output
 
 The notebook produces:
@@ -112,8 +100,6 @@ The notebook produces:
 - Estimated PSD.
 - Matched-filter SNR time series.
 - Peak SNR and corresponding merger time.
-
----
 
 ## Scientific Interpretation
 
@@ -131,8 +117,6 @@ Where:
 
 A strong peak in $\rho(t)$ indicates that the template matches the data at that time.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -141,8 +125,6 @@ A strong peak in $\rho(t)$ indicates that the template matches the data at that 
 - GWpy
 - PyCBC
 - LIGO Open Data
-
----
 
 ## Files
 
@@ -153,7 +135,6 @@ data_challenge/
     ├── challenge_2.md
     └── snr_time_series.png
 ```
----
 
 ### Learning Outcomes
 
@@ -164,8 +145,6 @@ After completing this challenge, you will be able to:
 - Apply matched filtering.
 - Interpret SNR time series.
 - Quantify detection significance.
-
----
 
 ### References
 - https://gwosc.org/

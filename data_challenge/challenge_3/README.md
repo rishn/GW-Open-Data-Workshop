@@ -4,9 +4,6 @@
   <strong>Validate a gravitational-wave signal using coincident observations from multiple detectors.</strong>
 </p>
 
-
----
-
 ## Overview
 
 Challenge 3 extends the matched-filtering workflow to a multi-detector setting by analyzing data from both the Hanford (H1) and Livingston (L1) interferometers.
@@ -21,8 +18,6 @@ Using the `H1:CHALLENGE3` and `L1:CHALLENGE3` strain channels, this notebook dem
 
 This challenge illustrates how coherent detections across multiple detectors strengthen confidence in a gravitational-wave event.
 
----
-
 ## Notebook
 
 ### `./GW_ODW_Data_Challenge_3.ipynb`
@@ -31,8 +26,6 @@ This challenge illustrates how coherent detections across multiple detectors str
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 3 in Colab">
   </a>
 </p>
-
----
 
 ## Challenge Objective
 
@@ -43,8 +36,6 @@ The challenge aims to determine:
 1. The time of the event.
 2. The peak matched-filter SNR.
 3. The consistency of the signal across detectors.
-
----
 
 ## Analysis Workflow
 
@@ -75,8 +66,6 @@ The template is correlated with the detector strain to compute the SNR time seri
 
 The maximum SNR and corresponding time are identified to estimate the event parameters.
 
----
-
 ## Results
 
 The matched-filter analysis reveals a highly significant gravitational-wave signal.
@@ -101,8 +90,6 @@ The strong SNR peak indicates an excellent match between the template waveform a
   <img src="./snr_time_series.png" alt="Matched Filter SNR Time Series" width="900">
 </p>
 
----
-
 ## Challenge Output
 
 The notebook produces:
@@ -112,8 +99,6 @@ The notebook produces:
 - Template waveform.
 - Matched-filter SNR time series.
 - Peak SNR and event time.
-
----
 
 ## Scientific Interpretation
 
@@ -127,8 +112,6 @@ A strong peak in $\rho(t)$ indicates the presence of a signal consistent with th
 
 Observing the same event in multiple detectors significantly increases confidence in the detection and enables sky localization.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -137,8 +120,6 @@ Observing the same event in multiple detectors significantly increases confidenc
 - GWpy
 - PyCBC
 - LIGO Open Data
-
----
 
 ## Files
 
@@ -149,7 +130,6 @@ data_challenge/
     ├── challenge_3.md
     └── snr_time_series.png
 ```
----
 
 ### Learning Outcomes
 
@@ -160,8 +140,6 @@ After completing this challenge, you will be able to:
 - Estimate detector PSDs.
 - Compute matched-filter SNR time series.
 - Interpret coincident detections across observatories.
-
----
 
 ### References
 - https://gwosc.org/

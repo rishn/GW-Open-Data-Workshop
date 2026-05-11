@@ -17,8 +17,6 @@
   From raw detector strain to event detection, parameter estimation, and continuous-wave searches.
 </p>
 
----
-
 ## Overview
 
 This repository contains completed solutions, analyses, and documentation for the **Gravitational Wave Open Data Workshop (GW-ODW) 2026**.
@@ -34,8 +32,6 @@ The workshop covers the full gravitational-wave data analysis pipeline:
 
 In addition to the official tutorial notebooks, this repository includes detailed solutions to all four data challenges, along with professional markdown summaries, figures, and interpretations.
 
----
-
 ## Highlights
 
 - Completed **5 core tutorial modules**
@@ -48,8 +44,6 @@ In addition to the official tutorial notebooks, this repository includes detaile
   - Population inference
   - Frequency-Hough continuous-wave searches
 
----
-
 <p align="center">
   <strong>Run the notebooks interactively in Google Colab</strong><br><br>
   <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop">
@@ -57,7 +51,6 @@ In addition to the official tutorial notebooks, this repository includes detaile
   </a>
 </p>
 
----
 
 ## Data Challenge
 
@@ -131,7 +124,6 @@ $$
 
 consistent with an equal-mass binary black hole merger.
 
----
 
 ## Tutorials
 
@@ -165,8 +157,6 @@ The workshop tutorials provide the theoretical and computational foundation for 
   <img src="./tutorials/5_parameter_estimation/posterior_predictive_check.png" width="800" alt="Posterior Predictive Check">
 </p>
 
----
-
 ## Extension Topics <a href="./tutorials/a_extension/"><img src="./assets/open-link.png" width="20" alt="Open guide"></a>
 
 Optional advanced notebooks covering research-grade methods:
@@ -181,8 +171,6 @@ Optional advanced notebooks covering research-grade methods:
   <img src="./tutorials/a_extension/hough_map.png" width="800" alt="Frequency-Hough Map">
 </p>
 
----
-
 ## Repository Structure
 
 ```text
@@ -190,8 +178,6 @@ tutorials/        # Core workshop tutorials
 data_challenge/   # Completed challenge solutions
 assets/           # Shared images and graphics
 ```
-
----
 
 ## Running the Notebooks
 
@@ -209,7 +195,6 @@ or
 conda env create -f env/environment.yml
 conda activate gw-odw
 ```
----
 
 ## Technologies Used
 
@@ -224,7 +209,6 @@ conda activate gw-odw
 - LALSuite
 - PyHough
 
----
 
 ## Official Workshop Repository
 
@@ -233,7 +217,7 @@ The original workshop materials and course content are available at:
 - 🌐 Workshop Portal: [GW Open Data Workshop 2026](https://gw-odw.thinkific.com/courses/take/odw2026/texts/70856330-welcome)
 - 💻 Official Repository: [gw-odw/odw: Materials from GW Open Data Workshop](https://github.com/gw-odw/odw)
 
----
+
 
 ## Acknowledgements
 

@@ -4,8 +4,6 @@
   <strong>Explore advanced gravitational-wave analyses beyond the core workshop curriculum.</strong>
 </p>
 
----
-
 ## Overview
 
 This section collects optional notebooks that extend the workshop into advanced areas of gravitational-wave astronomy.
@@ -13,8 +11,6 @@ This section collects optional notebooks that extend the workshop into advanced 
 These notebooks cover production-level parameter estimation with `LALInference`, population inference using published catalogs, and continuous-wave searches based on the Frequency-Hough transform.
 
 The objective is to provide exposure to specialized techniques used in current gravitational-wave research and to highlight directions for deeper exploration.
-
----
 
 ## Notebooks
 
@@ -42,8 +38,6 @@ Demonstrates the Frequency-Hough method for detecting long-lived, nearly monochr
   </a>
 </p>
 
----
-
 ## Extension Objectives
 
 By working through these notebooks, you will learn how to:
@@ -53,8 +47,6 @@ By working through these notebooks, you will learn how to:
 3. Infer population-level parameters such as mass distribution slopes.
 4. Construct peakmaps from time-frequency data.
 5. Detect continuous-wave signals using Hough transforms.
-
----
 
 ## Extension A.1 — Parameter Estimation with LALInference
 
@@ -68,8 +60,6 @@ By working through these notebooks, you will learn how to:
 ### Results
 
 This notebook demonstrates how large-scale Bayesian analyses are configured using the same software framework employed by the LVK Collaboration during O1–O3.
-
----
 
 ## Extension A.2 — Population Inference
 
@@ -98,8 +88,6 @@ This notebook demonstrates how multiple detections can be combined to infer the 
 - Additional detections can significantly shift the inferred hyperparameters.
 - Events near the edge of the observed mass distribution strongly influence the estimate of $m_{\min}$.
 - A larger-than-expected number of low-mass black holes would favor a shallower mass spectrum.
-
----
 
 ## Extension A.3 — Continuous Wave Searches
 
@@ -142,8 +130,6 @@ This notebook demonstrates how multiple detections can be combined to infer the 
 - Incorrect Doppler correction smears the signal, reducing detection significance.
 - Stationary noise lines are generally dispersed by Doppler correction, helping distinguish them from true astrophysical signals.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -154,8 +140,6 @@ This notebook demonstrates how multiple detections can be combined to infer the 
 - PESummary
 - PyHough
 
----
-
 ## Learning Outcomes
 
 After completing these extension topics, you will be able to:
@@ -165,8 +149,6 @@ After completing these extension topics, you will be able to:
 - Understand how compact-object population models are constrained.
 - Apply the Frequency-Hough method to continuous-wave searches.
 - Explore advanced gravitational-wave analysis techniques used in current research.
-
----
 
 ## References
 

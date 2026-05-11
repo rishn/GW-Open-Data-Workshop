@@ -4,8 +4,6 @@
   <strong>Generate and compare theoretical gravitational-wave signals from compact binary systems.</strong>
 </p>
 
----
-
 ## Overview
 
 This tutorial introduces waveform modeling, a central component of gravitational-wave data analysis.
@@ -15,8 +13,6 @@ Using `PyCBC`, you will generate theoretical gravitational-wave signals for bina
 The tutorial also includes optional exploratory exercises, such as estimating the time remaining until merger from different starting frequencies (30 Hz, 10 Hz, 5 Hz, and the LISA band at 20 mHz), illustrating how long sources remain observable as detector sensitivity improves.
 
 The objective is to understand how source parameters shape the templates used for matched filtering and parameter estimation.
-
----
 
 ## Notebooks
 
@@ -36,8 +32,6 @@ Optional extensions exploring additional waveform concepts and advanced topics.
   </a>
 </p>
 
----
-
 ## Tutorial Objectives
 
 By completing this tutorial, you will learn how to:
@@ -47,8 +41,6 @@ By completing this tutorial, you will learn how to:
 3. Study how component masses affect waveform duration and frequency evolution.
 4. Relate detector sensitivity bands to the observable lifetime of inspiral signals.
 5. Prepare waveform templates for matched filtering analyses.
-
----
 
 ## Tutorial 2.1 — Generating Waveforms
 
@@ -83,8 +75,6 @@ The notebook demonstrates the distinct morphology of gravitational-wave signals 
 - Lower-mass systems evolve more slowly and contain many more waveform cycles.
 - Waveform templates are the theoretical signals used in matched filtering searches.
 
----
-
 ## Tutorial 2.2 — Extracurricular Topics
 
 ### Workflow Summary
@@ -111,8 +101,6 @@ The optional analysis shows how dramatically the observable inspiral duration in
 - Binary neutron stars remain observable for much longer.
 - Lower-frequency sensitivity greatly increases the available observation time.
 - Space-based detectors can observe inspiraling systems years to centuries before merger.
-
----
 
 ## References
 

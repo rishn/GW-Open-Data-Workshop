@@ -4,8 +4,6 @@
   <strong>Learn how to discover, download, and load publicly available gravitational-wave data using GWOSC, GWpy, and PyCBC.</strong>
 </p>
 
----
-
 ## Overview
 
 This tutorial introduces the tools and workflows used to access gravitational-wave open data from the Gravitational Wave Open Science Center (GWOSC).
@@ -13,8 +11,6 @@ This tutorial introduces the tools and workflows used to access gravitational-wa
 The tutorial is divided into two notebooks. The first focuses on exploring the GWOSC archive and understanding the available datasets, while the second demonstrates how to load detector strain data into Python and visualize it using `GWpy` and `PyCBC`.
 
 The objective is to build familiarity with the structure, metadata, and basic handling of open detector data before proceeding to signal analysis and detection.
-
----
 
 ## Notebooks
 
@@ -34,8 +30,6 @@ Download frame files, load detector strain channels, and visualize time-series d
   </a>
 </p>
 
----
-
 ## Tutorial Objectives
 
 By completing this tutorial, you will learn how to:
@@ -45,8 +39,6 @@ By completing this tutorial, you will learn how to:
 3. Load strain data using `GWpy` and `PyCBC`.
 4. Inspect metadata such as sampling rate and duration.
 5. Visualize detector strain time series.
-
----
 
 ## Tutorial 1.1 — Discovering Open Data
 
@@ -64,8 +56,6 @@ By the end of this notebook, you will understand:
 - How gravitational-wave datasets are organized in GWOSC.
 - Which files are required for scientific analysis.
 - How event metadata are structured and documented.
-
----
 
 ## Tutorial 1.2 — Accessing Open Data with GWpy and PyCBC
 
@@ -98,8 +88,6 @@ The tutorial successfully loads and visualizes detector strain data.
 - `GWpy` and `PyCBC` provide convenient interfaces for reading frame files.
 - The strain data are dominated by detector noise, with occasional transient features.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -108,8 +96,6 @@ The tutorial successfully loads and visualizes detector strain data.
 - GWpy
 - PyCBC
 - GWOSC Open Data
-
----
 
 ## Learning Outcomes
 
@@ -120,8 +106,6 @@ After completing this tutorial, you will be able to:
 - Inspect time-series metadata.
 - Visualize and interpret raw detector strain.
 - Prepare data for subsequent signal processing.
-
----
 
 ## References
 

@@ -4,8 +4,6 @@
   <strong>Detect gravitational-wave signals using matched filtering, signal consistency tests, and statistical significance estimation.</strong>
 </p>
 
----
-
 ## Overview
 
 This tutorial introduces the core techniques used to search detector data for modeled gravitational-wave signals.
@@ -13,8 +11,6 @@ This tutorial introduces the core techniques used to search detector data for mo
 Across three notebooks, you will build the matched-filter formalism from first principles, apply it to realistic detector data, and evaluate the significance of candidate events using signal-consistency tests and background noise statistics.
 
 The objective is to understand how weak astrophysical signals are identified and distinguished from random noise fluctuations.
-
----
 
 ## Notebooks
 
@@ -43,8 +39,6 @@ Evaluates candidate events using chi-squared consistency tests and significance 
   </a>
 </p>
 
----
-
 ## Tutorial Objectives
 
 By completing this tutorial, you will learn how to:
@@ -54,8 +48,6 @@ By completing this tutorial, you will learn how to:
 3. Identify candidate events from SNR peaks.
 4. Apply signal-consistency tests to reject noise transients.
 5. Estimate the significance of a detection.
-
----
 
 ## Tutorial 4.1 — Matched Filtering Introduction
 
@@ -86,8 +78,6 @@ By completing this tutorial, you will learn how to:
 - Cross-correlation produces a prominent peak when the template aligns with the signal.
 - The peak amplitude relative to the noise standard deviation defines the matched-filter SNR.
 
----
-
 ## Tutorial 4.2 — Matched Filtering in Action
 
 ### Workflow Summary
@@ -100,8 +90,6 @@ By completing this tutorial, you will learn how to:
 ### Results
 
 The matched-filter output reveals a clear SNR peak at the signal time, demonstrating the effectiveness of template-based searches in realistic detector noise.
-
----
 
 ## Tutorial 4.3 — Signal Consistency and Significance
 
@@ -126,8 +114,6 @@ The matched-filter output reveals a clear SNR peak at the signal time, demonstra
 - Noise transients may produce high SNR but fail the chi-squared test.
 - Reweighted SNR provides a more robust detection statistic.
 
----
-
 ## Tools and Libraries
 
 - Python
@@ -136,8 +122,6 @@ The matched-filter output reveals a clear SNR peak at the signal time, demonstra
 - SciPy
 - PyCBC
 - GWpy
-
----
 
 ## Learning Outcomes
 
@@ -148,8 +132,6 @@ After completing this tutorial, you will be able to:
 - Identify candidate events from SNR peaks.
 - Apply chi-squared consistency tests.
 - Evaluate the statistical significance of detections.
-
----
 
 ## References
 
