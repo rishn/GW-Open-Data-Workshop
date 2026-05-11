@@ -21,7 +21,7 @@ The objective is to understand how weak astrophysical signals are identified and
 ### `./GW_ODW_Tuto_4.1_Matched_filtering_introduction.ipynb`
 Introduces cross-correlation, optimal filtering, and the statistical interpretation of matched filtering.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.1_Matched_filtering_introduction.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.1_Matched_filtering_introduction.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 4.1 in Colab">
   </a>
 </p>
@@ -30,7 +30,7 @@ Introduces cross-correlation, optimal filtering, and the statistical interpretat
 ### `./GW_ODW_Tuto_4.2_Matched_Filtering_In_action.ipynb`
 Applies matched filtering to detector data using realistic waveform templates and noise models.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.2_Matched_Filtering_In_action.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.2_Matched_Filtering_In_action.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 4.2 in Colab">
   </a>
 </p>
@@ -38,7 +38,7 @@ Applies matched filtering to detector data using realistic waveform templates an
 ### `./GW_ODW_Tuto_4.3_Signal_consistency_and_significance.ipynb`
 Evaluates candidate events using chi-squared consistency tests and significance estimates.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.3_Signal_consistency_and_significance.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/4_searches/GW_ODW_Tuto_4.3_Signal_consistency_and_significance.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 4.3 in Colab">
   </a>
 </p>

@@ -21,7 +21,7 @@ The objective is to understand how posterior distributions, credible intervals, 
 ### `./GW_ODW_Tuto_5.1_Introduction_to_parameter_estimation.ipynb`
 Introduces Bayesian inference concepts using a damped sinusoid toy model.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.1_Introduction_to_parameter_estimation.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.1_Introduction_to_parameter_estimation.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 5.1 in Colab">
   </a>
 </p>
@@ -29,7 +29,7 @@ Introduces Bayesian inference concepts using a damped sinusoid toy model.
 ### `./GW_ODW_Tuto_5.2_Parameter_estimation_for_compact_object_mergers.ipynb`
 Performs parameter estimation for binary black hole mergers using gravitational-wave data.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.2_Parameter_estimation_for_compact_object_mergers.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.2_Parameter_estimation_for_compact_object_mergers.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 5.2 in Colab">
   </a>
 </p>
@@ -37,7 +37,7 @@ Performs parameter estimation for binary black hole mergers using gravitational-
 ### `./GW_ODW_Tuto_5.3_Discovering_and_using_published_posterior_samples.ipynb`
 Explores publicly released posterior samples and compares inferred source properties.
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.3_Discovering_and_using_published_posterior_samples.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/tutorials/5_parameter_estimation/GW_ODW_Tuto_5.3_Discovering_and_using_published_posterior_samples.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 5.3 in Colab">
   </a>
 </p>

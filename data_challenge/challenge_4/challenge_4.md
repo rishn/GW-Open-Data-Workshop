@@ -30,7 +30,7 @@ This challenge closely mirrors the real-world workflow used in gravitational-wav
 Complete end-to-end solution for Challenge 4, including event discovery, glitch inspection, and Bayesian parameter estimation.
 
 <p>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/data_challenge/challenge_4/GW_ODW_Data_Challenge_4.ipynb">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/data_challenge/challenge_4/GW_ODW_Data_Challenge_4.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 4 in Colab">
   </a>
 </p>
