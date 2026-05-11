@@ -22,13 +22,67 @@ This challenge closely mirrors the real-world workflow used in gravitational-wav
 
 ---
 
-## Notebook
+## Notebooks
 
-**Notebook:** `GW_ODW_Data_Challenge_4.ipynb`
+### Main Challenge Notebook
 
-**Path:** `data_challenge/challenge_4/GW_ODW_Data_Challenge_4.ipynb`
+#### `./GW_ODW_Data_Challenge_4.ipynb`
+Complete end-to-end solution for Challenge 4, including event discovery, glitch inspection, and Bayesian parameter estimation.
 
----
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/data_challenge/challenge_4/GW_ODW_Data_Challenge_4.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 4 in Colab">
+  </a>
+</p>
+
+### Supplementary Notebooks
+
+To make manual inspection more manageable, the 4096-second dataset was divided into five contiguous segments. Each supplement notebook contains strain analysis, candidate identification, and Q-transform visualizations for its corresponding time interval.
+
+#### `GW_ODW_Data_Challenge_4_Supplement_(0_1596).ipynb`
+Covers the first segment of the dataset, including early candidate events and representative glitches.
+
+<p>
+  <a href="https://colab.research.google.com/drive/1_Yg6axuAejDdJ5OCwSwwSYuBBemO9R_a?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Supplement 0–1596 s in Colab">
+  </a>
+</p>
+
+#### `GW_ODW_Data_Challenge_4_Supplement_(1596_2394).ipynb`
+Analyzes the second segment and documents additional transient candidates and glitch morphologies.
+
+<p>
+  <a href="https://colab.research.google.com/drive/1rYxF7arJMOHwqvKtkGX2V59ETQN7NqWS?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Supplement 1596–2394 s in Colab">
+  </a>
+</p>
+
+#### `GW_ODW_Data_Challenge_4_Supplement_(2394_3192).ipynb`
+Includes detailed follow-up of candidate events identified in the middle portion of the dataset.
+
+<p>
+  <a href="https://colab.research.google.com/drive/11NoT8IxxlQWRNcmnonvW2OssMvPZp_b7?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Supplement 2394–3192 s in Colab">
+  </a>
+</p>
+
+#### `GW_ODW_Data_Challenge_4_Supplement_(3192_3990).ipynb`
+Focuses on late-time transients, including additional glitch investigations and event vetting.
+
+<p>
+  <a href="https://colab.research.google.com/drive/1jLsAOdf_afLODlYLJLpmUhLIsIQDoUdT?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Supplement 3192–3990 s in Colab">
+  </a>
+</p>
+
+#### `GW_ODW_Data_Challenge_4_Supplement_(3990_4096).ipynb`
+Examines the final portion of the dataset and confirms no additional significant events.
+
+<p>
+  <a href="https://colab.research.google.com/drive/1FMLpahkp5wE2Ff2cb8Eh8J41MNVKaQX7?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Supplement 3990–4096 s in Colab">
+  </a>
+</p>
 
 ## Challenge Objective
 

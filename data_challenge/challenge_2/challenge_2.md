@@ -25,9 +25,12 @@ This challenge highlights how prior knowledge of the expected waveform can be us
 
 ## Notebook
 
-**Notebook:** `GW_ODW_Data_Challenge_2.ipynb`
-
-**Path:** `data_challenge/challenge_2/GW_ODW_Data_Challenge_2.ipynb`
+### `./GW_ODW_Data_Challenge_2.ipynb`
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/data_challenge/challenge_2/GW_ODW_Data_Challenge_2.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 2 in Colab">
+  </a>
+</p>
 
 ---
 

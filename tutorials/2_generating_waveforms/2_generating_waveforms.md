@@ -20,11 +20,21 @@ The objective is to understand how source parameters shape the templates used fo
 
 ## Notebooks
 
-### `GW_ODW_Tuto_2.1_Generating_waveforms.ipynb`
+### `./GW_ODW_Tuto_2.1_Generating_waveforms.ipynb`
 Generate and visualize gravitational-wave templates for a variety of compact binary systems.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/2_generating_waveforms/GW_ODW_Tuto_2.1_Generating_waveforms.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 2.1 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_2_Extracurricular_topics.ipynb`
+### `./GW_ODW_Tuto_2_Extracurricular_topics.ipynb`
 Optional extensions exploring additional waveform concepts and advanced topics.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/2_generating_waveforms/GW_ODW_Tuto_2_Extracurricular_topics.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 2 Extension in Colab">
+  </a>
+</p>
 
 ---
 

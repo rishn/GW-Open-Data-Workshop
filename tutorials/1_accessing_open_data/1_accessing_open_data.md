@@ -18,11 +18,21 @@ The objective is to build familiarity with the structure, metadata, and basic ha
 
 ## Notebooks
 
-### `GW_ODW_Tuto_1.1_Discovering_Open_Data.ipynb`
+### `./GW_ODW_Tuto_1.1_Discovering_Open_Data.ipynb`
 Explore the GWOSC portal, identify relevant datasets, and understand the metadata associated with gravitational-wave observations.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/1_accessing_open_data/GW_ODW_Tuto_1.1_Discovering_Open_Data.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 1.1 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_1.2_Accessing_Open_Data_with_GWpy_and_PyCBC.ipynb`
+### `./GW_ODW_Tuto_1.2_Accessing_Open_Data_with_GWpy_and_PyCBC.ipynb`
 Download frame files, load detector strain channels, and visualize time-series data using Python.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/1_accessing_open_data/GW_ODW_Tuto_1.2_Accessing_Open_Data_with_GWpy_and_PyCBC.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 1.2 in Colab">
+  </a>
+</p>
 
 ---
 

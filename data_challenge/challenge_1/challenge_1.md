@@ -27,9 +27,13 @@ The goal is to recognize the characteristic chirp signature produced by two insp
 
 ## Notebook
 
-**Notebook:** `GW_ODW_Data_Challenge_1.ipynb`
+### `./GW_ODW_Data_Challenge_1.ipynb`
 
-**Path:** `data_challenge/challenge_1/GW_ODW_Data_Challenge_1.ipynb`
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/data_challenge/challenge_1/GW_ODW_Data_Challenge_1.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 1 in Colab">
+  </a>
+</p>
 
 ---
 

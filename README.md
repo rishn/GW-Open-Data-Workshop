@@ -52,7 +52,7 @@ In addition to the official tutorial notebooks, this repository includes detaile
 
 <p align="center">
   <strong>Run the notebooks interactively in Google Colab</strong><br><br>
-  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop/blob/main/README.md">
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
   </a>
 </p>

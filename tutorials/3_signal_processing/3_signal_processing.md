@@ -18,14 +18,29 @@ The objective is to understand how detector noise is characterized and suppresse
 
 ## Notebooks
 
-### `GW_ODW_Tuto_3.1_Fourier_Transforms.ipynb`
+### `./GW_ODW_Tuto_3.1_Fourier_Transforms.ipynb`
 Introduces discrete Fourier transforms and the relationship between time-domain and frequency-domain representations.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/3_signal_processing/GW_ODW_Tuto_3.1_Fourier_Transforms.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 3.1 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_3.2_Estimating_the_noise_PSD_and_whitening_band_passing_data.ipynb`
+### `./GW_ODW_Tuto_3.2_Estimating_the_noise_PSD_and_whitening_band_passing_data.ipynb`
 Covers PSD estimation, whitening, Gaussianity checks, and bandpass filtering.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/3_signal_processing/GW_ODW_Tuto_3.2_Estimating_the_noise_PSD_and_whitening_band_passing_data.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 3.2 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_3.3_Spectrograms_&_Q_transforms.ipynb`
+### `./GW_ODW_Tuto_3.3_Spectrograms_&_Q_transforms.ipynb`
 Demonstrates spectrogram and Q-transform visualizations for identifying gravitational-wave signals and detector artifacts.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/3_signal_processing/GW_ODW_Tuto_3.3_Spectrograms_%26_Q_transforms.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Tutorial 3.3 in Colab">
+  </a>
+</p>
 
 ---
 

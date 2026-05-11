@@ -25,9 +25,12 @@ This challenge illustrates how coherent detections across multiple detectors str
 
 ## Notebook
 
-**Notebook:** `GW_ODW_Data_Challenge_3.ipynb`
-
-**Path:** `data_challenge/challenge_3/GW_ODW_Data_Challenge_3.ipynb`
+### `./GW_ODW_Data_Challenge_3.ipynb`
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/data_challenge/challenge_3/GW_ODW_Data_Challenge_3.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Challenge 3 in Colab">
+  </a>
+</p>
 
 ---
 

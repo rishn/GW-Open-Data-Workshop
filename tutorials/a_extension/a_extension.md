@@ -18,14 +18,29 @@ The objective is to provide exposure to specialized techniques used in current g
 
 ## Notebooks
 
-### `GW_ODW_Tuto_A.1_Parameter_estimation_for_compact_object_mergers_with_LALInference.ipynb`
+### `./GW_ODW_Tuto_A.1_Parameter_estimation_for_compact_object_mergers_with_LALInference.ipynb`
 Reproduces a production-style parameter estimation workflow using the `LALInference` software employed during the first three observing runs.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/a_extension/GW_ODW_Tuto_A.1_Parameter_estimation_for_compact_object_mergers_with_LALInference.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Extension A.1 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_A.2_population_odw.ipynb`
+### `./GW_ODW_Tuto_A.2_population_odw.ipynb`
 Introduces hierarchical Bayesian inference for studying the population properties of compact-object mergers.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/a_extension/GW_ODW_Tuto_A.2_population_odw.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Extension A.2 in Colab">
+  </a>
+</p>
 
-### `GW_ODW_Tuto_A.3_Continuous_Wave_Searches.ipynb`
+### `./GW_ODW_Tuto_A.3_Continuous_Wave_Searches.ipynb`
 Demonstrates the Frequency-Hough method for detecting long-lived, nearly monochromatic gravitational-wave signals.
+<p>
+  <a href="https://colab.research.google.com/github/rishn/GW-Open-Data-Workshop-2026/blob/main/tutorials/a_extension/GW_ODW_Tuto_A.3_Continuous_Wave_Searches.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Extension A.3 in Colab">
+  </a>
+</p>
 
 ---
 
